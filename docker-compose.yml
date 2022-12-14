@@ -1,0 +1,10 @@
+version: "3"
+services:
+  db:
+    image: postgres:alpine
+    environment:
+      - POSTGRES_USER=victor
+      - POSTGRES_PASSWORD=1234
+      - POSTGRES_DB=db_bandkamp
+    ports:
+      - "5436:5432"
