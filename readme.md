@@ -1,5 +1,8 @@
 # M5 - BandKamp Generic View
 
+## Diagrama de relacionamentos:
+![Diagrama bandkamp API](https://uploaddeimagens.com.br/images/004/261/454/full/bandkamp_api.drawio.png?1671107173)
+
 ## Instalação dos pacotes de teste
 
 - Verifique se os pacotes `pytest` e/ou `pytest-testdox` estão instalados globalmente em seu sistema:
